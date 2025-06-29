@@ -23,6 +23,15 @@ An extension of the original analysis, this notebook applies advanced analytical
 - Analysis of the narrative and thematic impact of major funding initiatives
 - Insights into social impact and ethical considerations
 
+### 3. `Guardian API access.ipynb`
+A supplementary notebook that demonstrates how relevant news articles were retrieved from [The Guardian API](https://open-platform.theguardian.com/) to support the analysis of the "Extending Analytics - Advance Queensland program".
+
+**Key components:**
+- Secure loading of private API key (not shared in repo)
+- Dynamic URL construction and data fetching
+- Article text cleaning and extraction
+
+
 ## Tools & Technologies
 
 - Data Source: [Advance Queensland Funding Recipients](https://www.data.qld.gov.au/dataset/advance-queensland-funding-recipients)
