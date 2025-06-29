@@ -1,6 +1,7 @@
-## Advance-Queensland-program – Data Analytics Projects
+## Advance-Queensland-program – Data Analytics Project
 
-This repository contains two data analytics notebooks developed as part of the **Advance Queensland Program** projects. The purpose of this project is to examine and analyze the performance of different funding programs in the Advance Queensland Program.
+This repository contains two data analytics notebooks developed as part of the **[Advance Queensland Program](https://advance.qld.gov.au/)** data analytics project. 
+The goal of this project is to analyze the **performance of various government-funded programs** under the Advance Queensland Program, and to evaluate their **impact on society**, especially those with significant financial investment. 
 
 ## Project Structure
 
@@ -20,13 +21,14 @@ An extension of the original analysis, this notebook applies advanced analytical
 - Natural Language Processing (NLP) on unstructured text data
 - Topic modeling using **NMF (Non-negative Matrix Factorization)**
 - Analysis of the narrative and thematic impact of major funding initiatives
-- Social and ethical considerations of government programs
+- Insights into social impact and ethical considerations
 
 ## Tools & Technologies
 
+- Data Source: [Advance Queensland Funding Recipients](https://www.data.qld.gov.au/dataset/advance-queensland-funding-recipients)
 - Python 3
 - Jupyter Notebook
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
-- Scikit-learn (if ML is involved)
+- Scikit-learn 
 
